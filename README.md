@@ -1,9 +1,10 @@
 # Hi there 👋, I am Mukhammadali Toshpulatov or simply Ali.
-#### 👨‍💻 I am currently a Full-stack developer
-#### ♡ I love coding in JS.
-#### 😄 I am looking to collaborate on open-source projects.
-#### 📫 How to reach me: email me at mtoshpulatov1995@gmail.com
-#### ⚡ Fun fact: I am a father. 
+####  👨‍💻  I am a Full-stack developer
+####  🌱  The stack I use for development: React.JS, Angular, Node.js
+####  ♡  I love coding in JS.
+####  😄  I am looking to collaborate on open-source projects.
+####  📫  How to reach me: email me at mtoshpulatov1995@gmail.com
+####  ⚡  Fun fact: I am a father. 
 <!--
 **muhammadali1995/muhammadali1995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
