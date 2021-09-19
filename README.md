@@ -1,5 +1,5 @@
 # Hi there 👋, I am Mukhammadali Toshpulatov or simply Ali.
-#### 👨‍💻 I am currently a Full-stack developer at Toptal.
+#### 👨‍💻 I am currently a Full-stack developer
 #### ♡ I love coding in JS.
 #### 😄 I am looking to collaborate on open-source projects.
 #### 📫 How to reach me: email me at mtoshpulatov1995@gmail.com
